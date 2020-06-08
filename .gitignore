@@ -1,0 +1,4 @@
+.cassandraWorkbench.jsonc
+.cassandraWorkbench/
+.ipynb_checkpoints/
+.vscode/
